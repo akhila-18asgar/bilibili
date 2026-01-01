@@ -1,0 +1,13 @@
+.sidebar{
+    width: 200px;
+    height: 100vh;
+    background-color: #b4c5d5;
+    padding: 20px;
+}
+.menu{
+    margin: 15px 0;
+    font-size: 20px;
+    color: #040032;
+    cursor: pointer;
+    line-height: 2.6;
+}

@@ -1,0 +1,10 @@
+.home{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
